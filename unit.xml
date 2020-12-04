@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<testsuite name="HeadlessChrome 81.0.4044 (Windows 10.0.0)" package="unit" timestamp="2020-04-27T15:22:08" id="0" hostname="DESKTOP-FNFG5LQ" tests="4" errors="0" failures="0" time="1.627">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/81.0.4044.122 Safari/537.36"/>
+  </properties>
+  <testcase name="CityData search is made on by clicking on search button and result found - test 1" time="0.584" classname=".CityData"/>
+  <testcase name="CityData search is made on by clicking on search button and result found - test 2" time="0.521" classname=".CityData"/>
+  <testcase name="CityData Initial UI is rendered as expected" time="0.01" classname=".CityData"/>
+  <testcase name="CityData search is made on by clicking on search button and no results found" time="0.512" classname=".CityData"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
